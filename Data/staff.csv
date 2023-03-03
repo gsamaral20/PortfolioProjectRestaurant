@@ -1,0 +1,17 @@
+﻿staff_id;first_name;last_name;position;hourly_rate;
+st0001;Madalena;Marinho;Chef;17,25;
+st0002;Natalia;Ferreira;Head chef;21,50;
+st0003;Thales;Solano;Chef;17,25;
+st0004;Alessandra;Pena;Head chef;21,50;
+st0005;Elizabeth;Salgado;Chef;17,25;
+st0006;Abril;Molina;Head chef;21,50;
+st0007;Mateus;Godoy;Chef;17,25;
+st0008;Gian;Rezende;Head chef;21,50;
+st0009;Franco;Vila;Delivery rider;14,50;
+st0010;Hernani;Maldonado;Delivery rider;14,50;
+st0011;Matias;Sepulveda;Delivery rider;14,50;
+st0012;Martinho;Rodrigues;Delivery rider;14,50;
+st0013;Gabriel;Meireles;Delivery rider;14,50;
+st0014;Jorge;Santiago;Delivery rider;14,50;
+st0015;Ornela;Rocha;Delivery rider;14,50;
+st0016;Daniela;Pacheco;Delivery rider;14,50;

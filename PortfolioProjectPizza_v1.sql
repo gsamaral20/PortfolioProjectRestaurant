@@ -297,13 +297,13 @@ GROUP BY CAST(created_at as date),
        DATEPART(hour,created_at)
 ORDER BY CAST(created_at as date)
 
--- Order by costumers
+-- Order by customers
 
 SELECT cust_id, COUNT(DISTINCT(order_id)) AS Total
 FROM dash1
 GROUP BY cust_id
 
--- Top 5 costumers
+-- Top 5 customers
 
 SELECT TOP 5 cust_id, COUNT(DISTINCT(order_id)) AS Total
 FROM dash1
